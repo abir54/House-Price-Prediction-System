@@ -65,7 +65,7 @@ For detailed methodology, data analysis, model performance comparison, and visua
 
 👥 Contributors
 
-* Student Name: Abir Banerjee (@abir54)
+* Student Name: Abir Banerjee (https://github.com/abir54)
 * University: Kalinga Institute of Industrial Technology (KIIT University)
 * GitHub Repository: [House-Price-Prediction-System](https://github.com/abir54/House-Price-Prediction-System)
 
