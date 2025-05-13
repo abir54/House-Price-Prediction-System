@@ -49,12 +49,13 @@ Libraries:
 
 1. Clone the Repository:
    git clone https://github.com/abir54/House-Price-Prediction-System.git
+
    cd House-Price-Prediction-System
    
-2. Install Dependencies:
+3. Install Dependencies:
    pip install -r requirements.txt
 
-3. Run the Web Application:
+4. Run the Web Application:
    streamlit run app.py
    
 
