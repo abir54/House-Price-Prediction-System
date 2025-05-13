@@ -12,7 +12,9 @@ This project aims to predict real estate prices using various machine learning m
 🔍 Dataset
 
 Source:Kaggle - https://www.kaggle.com/datasets/sukhmandeepsinghbrar/house-prices-india
+
 Features Include:Location,Number of rooms,Area (sq ft),Number of bedrooms,Median income,Population,Additional engineered features
+
 Target Variable:Property Price
 
 🧠 Machine Learning Models Used
